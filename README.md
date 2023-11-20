@@ -1,5 +1,5 @@
 # Us-accident-analytics-dashboard
-`**ABSTRACT**`
+**ABSTRACT**
 
 Road safety is a priority for everyone who owns a vehicle. With this project, we are going to analyse the US road accidents from February 2016 to March 2023 to understand the car accident hotspot locations, road accidents involved in different population densities and much more. Here we have a dataset which was retrieved in real-time using multiple traffic APIs. A dashboard was created on Looker Studio to visualize the same (https://lookerstudio.google.com/reporting/11838b21-1d09-4c69-85ac-c5c485606c23/page/F6kgD).
 
@@ -17,7 +17,8 @@ The data from GCS bucket was fed to Big Query to perform data cleaning and data 
 
 
 
-`**DATA VISUALIZATION**`
+**DATA VISUALIZATION**
+
 To visualize the geospatial data, Looker Studio was used. A dashboard was created to view the insights from the data. Design Intent and Data Insight for each page are as follows: - 
 
  ![image](https://github.com/diljyotsingh019/Us-accident-analytics-dashboard/assets/34520429/8c7c5407-1146-4040-927d-391bbc4238a3)
