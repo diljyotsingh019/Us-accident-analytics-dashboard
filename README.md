@@ -70,7 +70,8 @@ Design Intent: Two-line graphs and a column chart were considered to visualize d
 Data Insights: There’s a huge spike in the count of accidents at 7am and 5pm. These two timings represent the rush hour of the day, which states that as the rush hour arrives the number of accidents increases as well. As seen from the column chart, the count of accidents is almost doubled during the weekdays. One possible explanation for the same could be the accidents occurring during rush hour. Also, the number of accidents occurring during the winter season is 1.5 times that of the number of accidents occurring in the summer season.
 
 
-REFERENCES FOR THE DATASET
+**REFERENCES FOR THE DATASET**
+
 •	Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019. 
 
 •	Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019. 
