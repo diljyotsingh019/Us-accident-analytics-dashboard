@@ -4,7 +4,7 @@
 Road safety is a priority for everyone who owns a vehicle. With this project, we are going to analyse the US road accidents from February 2016 to March 2023 to understand the car accident hotspot locations, road accidents involved in different population densities and much more. Here we have a dataset which was retrieved in real-time using multiple traffic APIs. A dashboard was created on Looker Studio to visualize the same (https://lookerstudio.google.com/reporting/11838b21-1d09-4c69-85ac-c5c485606c23/page/F6kgD).
 
 
-`**DATA COLLECTION**`
+**DATA COLLECTION**
 
 The dataset was extracted in the CSV format from Kaggle (US Accidents (2016 - 2023) (kaggle.com)). This is a nationwide geospatial dataset of vehicle accidents that covers data from 49 US states. Multiple APIs that provide streaming traffic incident (or event) data were used to collect accident data between February 2016 and March 2023. The data for this traffic information transmitting APIs has been collected by different organizations, such as state and federal transportation bureaus, law enforcement, traffic cameras, and traffic sensors installed on road networks. Approximately 7.7 million accident records are now present in the dataset. Additional datasets were retrieved from US open data sources for further analysis (https://hub.arcgis.com/search?collection=Dataset). All the datasets were transferred into GCS bucket.
 ![image](https://github.com/diljyotsingh019/Us-accident-analytics-dashboard/assets/34520429/8d674ed8-328b-4e31-8841-40937ff4a00c)
