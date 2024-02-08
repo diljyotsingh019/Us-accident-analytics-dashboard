@@ -1,7 +1,7 @@
 # Us-accident-analytics-dashboard
 **ABSTRACT**
 
-Road safety is a priority for everyone who owns a vehicle. With this project, we are going to analyse the US road accidents from February 2016 to March 2023 to understand the car accident hotspot locations, road accidents involved in different population densities and much more. Here we have a dataset which was retrieved in real-time using multiple traffic APIs. A dashboard was created on Looker Studio to visualize the same (https://lookerstudio.google.com/reporting/11838b21-1d09-4c69-85ac-c5c485606c23/page/F6kgD). **BIG QUERY DATABASE IS NO LONGER AVAILABLE - 25th APRIL 2024**
+Road safety is a priority for everyone who owns a vehicle. With this project, we are going to analyse the US road accidents from February 2016 to March 2023 to understand the car accident hotspot locations, road accidents involved in different population densities and much more. Here we have a dataset which was retrieved in real-time using multiple traffic APIs. A dashboard was created on Looker Studio to visualize the same (https://lookerstudio.google.com/reporting/11838b21-1d09-4c69-85ac-c5c485606c23/page/F6kgD). ***BIG QUERY DATABASE IS NO LONGER AVAILABLE - 25th APRIL 2024***
 
 
 **DATA COLLECTION**
